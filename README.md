@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -26,3 +27,6 @@ Things you may want to cover:
 =======
 # Idea-App
 >>>>>>> ab78126cdff71a021497a70832b1efc2e1df1992
+=======
+# Idea-App
+>>>>>>> 96f9119febaecf8ef5003a82030324179513b035
